@@ -23,7 +23,9 @@
 
 - 📫 How to reach me **gkartikey05@gmail.com**
 
-- 📄 Know about my experiences here is my resume:- [[https://drive.google.com/file/d/1vAAOC7pK0lJtqfXSPA68i4BndCa7Kg6R/view?usp=sharing](https://drive.google.com/file/d/1vAAOC7pK0lJtqfXSPA68i4BndCa7Kg6R/view?usp=sharing)
+- 📄 Know about my experiences here is my resume:- [https://drive.google.com/file/d/16p8z_yJW8mCNwPSt4x2kdyMCTX4gNsq7/view?usp=sharing](https://drive.google.com/file/d/16p8z_yJW8mCNwPSt4x2kdyMCTX4gNsq7/view?usp=sharing)]
+
+- https://drive.google.com/file/d/16p8z_yJW8mCNwPSt4x2kdyMCTX4gNsq7/view?usp=sharing
 
 - ⚡ Fun fact **I am a Mechanical Engineer by profession but a Full Stack Web Developer by passion.**
 
