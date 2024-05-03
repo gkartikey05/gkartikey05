@@ -4,8 +4,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guptakartikey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=guptakartikey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gkartikey05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gkartikey05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
 <br/>
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **gkartikey05@gmail.com**
 
-- 📄 Know about my experiences here is my [Resume](https://drive.google.com/file/d/16p8z_yJW8mCNwPSt4x2kdyMCTX4gNsq7/view?usp=sharing)
+- 📄 Know about my experiences here is my [Resume](https://drive.google.com/file/d/1rWJPyFOs8hTtEaxQca-wP9dpY83cUUhq/view?usp=sharing))
 
 - ⚡ Fun fact **I am a Mechanical Engineer by profession but a Full Stack Web Developer by passion.**
 
