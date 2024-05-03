@@ -23,14 +23,14 @@
 
 - 📫 How to reach me **gkartikey05@gmail.com**
 
-- 📄 Know about my experiences here is my [Resume](https://drive.google.com/file/d/1rWJPyFOs8hTtEaxQca-wP9dpY83cUUhq/view?usp=sharing))
+- 📄 Know about my experiences here is my [Resume](https://drive.google.com/file/d/1rWJPyFOs8hTtEaxQca-wP9dpY83cUUhq/view?usp=sharing)
 
 - ⚡ Fun fact **I am a Mechanical Engineer by profession but a Full Stack Web Developer by passion.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kartikeygupta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartikeygupta_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kartikey-gupta-4160862b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartikey-gupta-4160862b2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gkartikey05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartikey-gupta-4160862b2" height="30" width="40" /></a>
 <a href="https://instagram.com/the_kartikey.gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_kartikey.gupta" height="30" width="40" /></a>
 </p>
 
