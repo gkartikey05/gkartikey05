@@ -11,7 +11,7 @@
 <br/>
 
 
-- 🔭 I’m currently working on **Learning Management System,**
+- 🔭 I’m currently working on **My Internship work with @CodSoft**
 
 - 🌱 I’m currently learning **React and Redux,**
 
