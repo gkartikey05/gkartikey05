@@ -19,13 +19,13 @@
 
 - 🤝 I’m looking for help with **project development,**
 
-- 💬 Ask me about **Web Development,**
+- 💬 Ask me about **MERN Stack Development,**
 
-- 📫 How to reach me **gkartikey05@gmail.com**
+- 📫 How to reach me [My Portfolio](https://portfolio-kartikey.vercel.app/),
 
-- 📄 Know about my experiences here is my [Resume](https://drive.google.com/file/d/1rWJPyFOs8hTtEaxQca-wP9dpY83cUUhq/view?usp=sharing)
+- 📄 Know about my experiences here is my [Resume](https://drive.google.com/file/d/17YydCq05tQxbHbq-JAjenLowS3-g4pQs/view?usp=sharing)
 
-- ⚡ Fun fact **I am a Mechanical Engineer by profession but a Full Stack Web Developer by passion.**
+- ⚡ Fun fact **I am a Mechanical Engineer by profession but a MERN Stack Developer by passion.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
