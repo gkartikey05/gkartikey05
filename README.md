@@ -20,6 +20,13 @@ Growing up in a value-driven middle-class family, I have always believed in my f
 
 My tech skills include languages such as JavaScript, React.js, Express.js, and Node.js. Additionally, I have experience Data Structures & Algorithms and Database Management System during the learning phase of my Web Development. I have also worked with both SQL and NoSQL databases, including MySQL and MongoDB.
 
+- 🔭 I’m currently working on my internship work with **Adi Foundation**
+- 🌱 I’m currently learning **React** and **Redux,**
+- 💬 Ask me about **MERN Stack Development,**
+- 📫 Here is my portfolio link to reach me: [My Portfolio](https://portfolio-kartikey.vercel.app/),
+- 📄 Know about my experiences here is my [Resume](https://drive.google.com/file/d/17YydCq05tQxbHbq-JAjenLowS3-g4pQs/view?usp=sharing)
+- ⚡ Fun fact **I am a Mechanical Engineer by profession and a MERN Stack Developer by passion.**
+
 
 ## 🛠️ Skills
 
@@ -27,13 +34,6 @@ My tech skills include languages such as JavaScript, React.js, Express.js, and N
 - **Web Development:** HTML, CSS, JavaScript, ReactJS, ReduxJS, ExpressJS, Node.js, Tailwind CSS 
 - **Database Management:** SQL, NoSQL, MySQL, MongoDB
 - **Tools & Software:** Visual Studio Code, Figma (UI/UX), Postman (API Integration)
-<br/>
-- 🔭 I’m currently working on my internship work with **Adi Foundation**
-- 🌱 I’m currently learning **React** and **Redux,**
-- 💬 Ask me about **MERN Stack Development,**
-- 📫 Here is my portfolio link to reach me: [My Portfolio](https://portfolio-kartikey.vercel.app/),
-- 📄 Know about my experiences here is my [Resume](https://drive.google.com/file/d/17YydCq05tQxbHbq-JAjenLowS3-g4pQs/view?usp=sharing)
-- ⚡ Fun fact **I am a Mechanical Engineer by profession and a MERN Stack Developer by passion.**
 
 ---
 
