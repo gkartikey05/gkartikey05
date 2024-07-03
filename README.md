@@ -8,7 +8,8 @@
 ### Let's get into my journey!
 
 📍 **Location:** Prayagraj, UP - Bhopal, MP  
-🏛️ **Education:**  Technocrats Institute of Technology & Science.
+🏛️ **Education:**  Technocrats Institute of Technology & Science
+<br/>
 🚀 **Ambition:** Progressing every day towards becoming a MERN Stack Developer.
 
 
