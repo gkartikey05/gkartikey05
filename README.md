@@ -10,7 +10,7 @@
 📍 **Location:** Lucknow, UP - Gurgaon, HR - Prayagraj, UP  
 🏛️ **Education:**  Technocrats Institute of Technology & Science
 <br/>
-🚀 **Ambition:** Progressing every day towards becoming a aspiring Software Developer.
+🚀 **Ambition:** Progressing every day towards becoming a Software Developer.
 
 
 ## 🚀 About Me
