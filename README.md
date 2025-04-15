@@ -7,34 +7,36 @@
 
 ### Let's get into my journey!
 
-📍 **Location:** Prayagraj, UP - Bhopal, MP  
+📍 **Location:** Lucknow, UP - Gurgaon, HR - Prayagraj, UP  
 🏛️ **Education:**  Technocrats Institute of Technology & Science
 <br/>
-🚀 **Ambition:** Progressing every day towards becoming a MERN Stack Developer.
+🚀 **Ambition:** Progressing every day towards becoming a aspiring Software Developer.
 
 
 ## 🚀 About Me
 
-I am Kartikey Gupta, a Mechanical Engineering graduate from Technocrats Institute of Technology & Science, with a certified Full-Stack Web Development course as MERN Stack Developer from PW Skills.
+I am Kartikey Gupta, a Mechanical Engineer from Technocrats Institute of Technology & Science, with a certified Full-Stack Web Development course as a MERN Stack Developer from PW Skills.
 
-Growing up in a value-driven middle-class family, I have always believed in my father's motto of "Simple Living, Higher Thinking."
+Currently, I am working as a Frontend Developer at 18Pixels, Lucknow since March 2025, where I contribute to building responsive and user-friendly web interfaces. Prior to this, I completed an internship as a React.JS Development Intern at CodSoft from April 2024 to October 2024, where I gained hands-on experience developing real-world projects and collaborating with team.
 
-My tech skills include languages such as JavaScript, React.js, Express.js, and Node.js. Additionally, I have experience Data Structures & Algorithms and Database Management System during the learning phase of my Web Development. I have also worked with both SQL and NoSQL databases, including MySQL and MongoDB.
+My technical skill set includes framework like Next.JS React.JS, Redux.JS, Express.JS, Node.JS and languages like TypeScript, JavaScript, PHP and HTML. I also have a strong foundation in Data Structures & Algorithms and Database Management Systems, with experience working on both SQL and NoSQL databases such as MySQL, PostgreSQL and MongoDB.
 
-- 🔭 I’m currently working on my internship work with **Adi Foundation**
-- 🌱 I’m currently learning **React** and **Redux,**
-- 💬 Ask me about **MERN Stack Development,**
-- 📫 Here is my portfolio link to reach me: [My Portfolio](https://portfolio-kartikey.vercel.app/),
+Growing up in a value-driven middle-class family, I have always believed in my father's motto of "Simple Living, Higher Thinking," which continues to guide my personal and professional journey.
+
+- 🔭 I’m currently working on my SLMS and School Website in **18Pixels**
+- 🌱 I’m currently learning **Next.JS, TypeScript** and **PHP,**
+- 💬 Ask me about **Frontend Development,**
+- 📫 Here is my portfolio link to reach me: [Portfolio](https://portfolio-kartikey.vercel.app/),
 - 📄 Know about my experiences here is my [Resume](https://drive.google.com/file/d/1ieXVy42HLM8gJtyZH6x728PktDQodkez/view?usp=sharing)
-- ⚡ Fun fact **I am a Mechanical Engineer by profession and a MERN Stack Developer by passion.**
+- ⚡ Fun fact **I am a Mechanical Engineer by profession and a Frontend Developer by passion.**
 
 
 ## 🛠️ Skills
 
-- **Programming Languages:** JavaScript, Python
-- **Web Development:** HTML, CSS, JavaScript, ReactJS, ReduxJS, ExpressJS, Node.js, Tailwind CSS 
-- **Database Management:** SQL, NoSQL, MySQL, MongoDB
-- **Tools & Software:** Visual Studio Code, Figma (UI/UX), Postman (API Integration)
+- **Programming Languages:** TypeScript, JavaScript, PHP, and Python,
+- **Web Development:** HTML, CSS, Tailwind CSS, JavaScript, TypeScript, PHP, Next.JS, React.JS, Redux.JS, Express.JS, and Node.JS, 
+- **Database Management:** SQL, NoSQL, MySQL, PostgreSQL, and MongoDB,
+- **Tools & Software:** Visual Studio Code (IDE), Figma (UI/UX), Postman (API Integration), Canva.
 
 ---
 
