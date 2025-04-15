@@ -25,7 +25,7 @@ My tech skills include languages such as JavaScript, React.js, Express.js, and N
 - 🌱 I’m currently learning **React** and **Redux,**
 - 💬 Ask me about **MERN Stack Development,**
 - 📫 Here is my portfolio link to reach me: [My Portfolio](https://portfolio-kartikey.vercel.app/),
-- 📄 Know about my experiences here is my [Resume](https://drive.google.com/file/d/17YydCq05tQxbHbq-JAjenLowS3-g4pQs/view?usp=sharing)
+- 📄 Know about my experiences here is my [Resume](https://drive.google.com/file/d/1ieXVy42HLM8gJtyZH6x728PktDQodkez/view?usp=sharing)
 - ⚡ Fun fact **I am a Mechanical Engineer by profession and a MERN Stack Developer by passion.**
 
 
