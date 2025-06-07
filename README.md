@@ -8,6 +8,7 @@
 ### Let's get into my journey!
 
 📍 **Location:** Prayagraj, UP - Pune, Maharashtra
+<br/>
 🏛️ **Education:**  Technocrats Institute of Technology & Science
 <br/>
 🚀 **Ambition:** Progressing every day towards becoming a Software Developer.
@@ -34,7 +35,7 @@ Growing up in a value-driven middle-class family, I have always believed in my f
 ## 🛠️ Skills
 
 - **Programming Languages:** TypeScript, JavaScript, jQuery, and Python,
-- **Web Development:** HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript, Next.JS, React.JS, Redux Toolkit, Express.JS, and Node.JS, 
+- **Web Development:** HTML, CSS, Tailwind CSS, JavaScript, TypeScript, Next.JS, React.JS, Redux Toolkit, Express.JS, and Node.JS, 
 - **Database Management:** SQL, NoSQL, MySQL, PostgreSQL, and MongoDB,
 - **Tools & Software:** Visual Studio Code (IDE), Figma (UI/UX), Postman (API Integration), Canva.
 
