@@ -7,7 +7,7 @@
 
 ### Let's get into my journey!
 
-📍 **Location:** Lucknow, UP - Gurgaon, HR - Prayagraj, UP  
+📍 **Location:** Prayagraj, UP - Pune, Maharashtra
 🏛️ **Education:**  Technocrats Institute of Technology & Science
 <br/>
 🚀 **Ambition:** Progressing every day towards becoming a Software Developer.
@@ -15,26 +15,26 @@
 
 ## 🚀 About Me
 
-I am Kartikey Gupta, a Mechanical Engineer from Technocrats Institute of Technology & Science, with a certified Full-Stack Web Development course as a MERN Stack Developer from PW Skills.
+Full Stack Developer with 11 months of hands-on experience specializing in the MERN stack. Transitioned from a Mechanical Engineering background (B.Tech, Technocrats Institute of Technology & Science) into software development, backed by a MERN Stack Development certification from PW Skills. Proven ability to build scalable web applications and deliver end-to-end solutions.
 
-Currently, I am working as a Frontend Developer at 18Pixels, Lucknow since March 2025, where I contribute to building responsive and user-friendly web interfaces. Prior to this, I completed an internship as a React.JS Development Intern at CodSoft from April 2024 to October 2024, where I gained hands-on experience developing real-world projects and collaborating with team.
+Currently, I am working as a Full Stack Developer - Intern at Ageit Endorse India Private Limited, Pune since May 2025, where I contribute in building responsive and user-friendly web interfaces Frontend, empowered by efficient, secure and scalable Backend with intergration of MongoDB as Database. Prior to this, I was working as a Frontend Developer - Trainee at 18Pixels, Lucknow from February 2025 to May 2025, and I have also completed an internship as a React.JS Developer at CodSoft from April 2024 to October 2024, where I gained hands-on experience in developing real-world projects and collaborating with team.
 
-My technical skill set includes framework like Next.JS React.JS, Redux.JS, Express.JS, Node.JS and languages like TypeScript, JavaScript, PHP and HTML. I also have a strong foundation in Data Structures & Algorithms and Database Management Systems, with experience working on both SQL and NoSQL databases such as MySQL, PostgreSQL and MongoDB.
+My technical skill set includes framework like Next.JS, React.JS, Redux Toolkit, Node.JS, Express.JS, and languages like TypeScript, JavaScript, jQuery, CSS and HTML. I also have a strong foundation in Data Structures & Algorithms and Database Management Systems, with experience working on both SQL and NoSQL databases such as MySQL, PostgreSQL and MongoDB.
 
 Growing up in a value-driven middle-class family, I have always believed in my father's motto of "Simple Living, Higher Thinking," which continues to guide my personal and professional journey.
 
-- 🔭 I’m currently working on my SLMS and School Website in **18Pixels**
-- 🌱 I’m currently learning **Next.JS, TypeScript** and **PHP,**
-- 💬 Ask me about **Frontend Development,**
+- 🔭 I’m currently working on CRM and some other minor projects at **Ageit Endorse India Pvt Ltd**
+- 🌱 I’m currently learning **Next.JS, TypeScript** and **jQuery,**
+- 💬 Ask me about **Full Stack Development,**
 - 📫 Here is my portfolio link to reach me: [Portfolio](https://portfolio-kartikey.vercel.app/),
 - 📄 Know about my experiences here is my [Resume](https://drive.google.com/file/d/1ieXVy42HLM8gJtyZH6x728PktDQodkez/view?usp=sharing)
-- ⚡ Fun fact **I am a Mechanical Engineer by profession and a Frontend Developer by passion.**
+- ⚡ Fun fact **I am a Mechanical Engineer by profession and a Full Stack Developer by passion.**
 
 
 ## 🛠️ Skills
 
-- **Programming Languages:** TypeScript, JavaScript, PHP, and Python,
-- **Web Development:** HTML, CSS, Tailwind CSS, JavaScript, TypeScript, PHP, Next.JS, React.JS, Redux.JS, Express.JS, and Node.JS, 
+- **Programming Languages:** TypeScript, JavaScript, jQuery, and Python,
+- **Web Development:** HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript, Next.JS, React.JS, Redux Toolkit, Express.JS, and Node.JS, 
 - **Database Management:** SQL, NoSQL, MySQL, PostgreSQL, and MongoDB,
 - **Tools & Software:** Visual Studio Code (IDE), Figma (UI/UX), Postman (API Integration), Canva.
 
