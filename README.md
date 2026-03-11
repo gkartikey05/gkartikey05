@@ -5,11 +5,9 @@
 
 ## Welcome to my Profile !! <p align="left" style="display:inline;"> <img src="https://komarev.com/ghpvc/?username=gkartikey05&label=Profile%20views&color=0e75b6&style=flat" alt="gkartikey05" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gkartikey05" alt="gkartikey05" /></a> </p>
-
 ### Let's get into my journey!
 
-📍 **Location:** Prayagraj, UP - Pune, Maharashtra
+📍 **Location:** Pune, Maharashtra
 <br/>
 🏛️ **Education:**  Technocrats Institute of Technology & Science
 <br/>
@@ -18,7 +16,7 @@
 
 ## 🚀 About Me
 
-Full Stack Developer with more than 1 year of hands-on experience specializing in the MERN stack. Transitioned from a Mechanical Engineering background (B.Tech, Technocrats Institute of Technology & Science) into software development, backed by a MERN Stack Development certification from PW Skills. Proven ability to build scalable web applications and deliver end-to-end solutions.
+Full Stack Developer with more than 1.5 year of hands-on experience specializing in the MERN stack. Transitioned from a Mechanical Engineering background (B.Tech, Technocrats Institute of Technology & Science) into software development, backed by a MERN Stack Development certification from PW Skills. Proven ability to build scalable web applications and deliver end-to-end solutions.
 
 Currently, I am working as a Full Stack Developer - Intern at Ageit Endorse India Private Limited, Pune since May 2025, where I contribute in building responsive and user-friendly web interfaces Frontend, empowered by efficient, secure and scalable Backend with intergration of MongoDB as Database. Prior to this, I was working as a Frontend Developer - Trainee at 18Pixels, Lucknow from February 2025 to May 2025, and I have also completed an internship as a React.JS Developer at CodSoft from April 2024 to October 2024, where I gained hands-on experience in developing real-world projects and collaborating with team.
 
@@ -30,16 +28,16 @@ Growing up in a value-driven middle-class family, I have always believed in my f
 - 🌱 I’m currently learning **Next.JS, TypeScript** and **jQuery,**
 - 💬 Ask me about **Full Stack Development,**
 - 📫 Here is my portfolio link to reach me: [Portfolio](https://portfolio-20-kartikey-gupta.vercel.app/),
-- 📄 Know about my experiences here is my [Resume](https://drive.google.com/file/d/1qVvVnFvQHjOZZDjEM6qKkyLDD2iLjMva/view?usp=sharing)
-- ⚡ Fun fact **I am a Mechanical Engineer by profession and a Full Stack Developer by passion.**
+- 📄 Know about my experiences here is my [Resume](https://drive.google.com/file/d/18TUZi_RdQUadHoLw2pI_xVZ19p2T7rPf/view?usp=sharing)
+- ⚡ Fun fact **I am a Full Stack Engineer (MERN Stack) by profession and a Mechanical Engineer by Degree.**
 
 
 ## 🛠️ Skills
 
 - **Programming Languages:** TypeScript, JavaScript, jQuery, and Python,
-- **Web Development:** HTML, CSS, Tailwind CSS, JavaScript, TypeScript, Next.JS, React.JS, Redux Toolkit, Express.JS, and Node.JS, 
+- **Web Development:** Next.JS, React.JS, Redux Toolkit, Nest.JS, Express.JS, Node.JS, HTML, CSS, Tailwind CSS, 
 - **Database Management:** SQL, NoSQL, MySQL, PostgreSQL, and MongoDB,
-- **Tools & Software:** Visual Studio Code (IDE), Figma (UI/UX), Postman (API Integration), Canva.
+- **Tools & Software:** Docker, Kubernetes, Terraform(still learning), VS Code(IDE), Cursor(IDE), Antigravity(IDE), Postman(API Integration).
 
 ---
 
