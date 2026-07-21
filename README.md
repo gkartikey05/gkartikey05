@@ -28,7 +28,7 @@ Growing up in a value-driven middle-class family, I have always believed in my f
 - 🌱 I’m currently learning **Next.JS, TypeScript** and **jQuery,**
 - 💬 Ask me about **Full Stack Development,**
 - 📫 Here is my portfolio link to reach me: [Portfolio](https://portfolio-20-kartikey-gupta.vercel.app/),
-- 📄 Know about my experiences here is my [Resume](https://drive.google.com/file/d/1qVvVnFvQHjOZZDjEM6qKkyLDD2iLjMva/view?usp=sharing)
+- 📄 Know about my experiences here is my [Resume](https://drive.google.com/file/d/1in7jpSykMZUcfphTXgEE3oEObn9iC61V/view?usp=sharing)
 - ⚡ Fun fact **I am a Full Stack Engineer (MERN Stack) by profession and a Mechanical Engineer by Degree.**
 
 
