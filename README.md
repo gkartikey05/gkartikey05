@@ -16,25 +16,23 @@
 
 ## 🚀 About Me
 
-Full Stack Developer with more than 1.5 year of hands-on experience specializing in the MERN stack. Transitioned from a Mechanical Engineering background (B.Tech, Technocrats Institute of Technology & Science) into software development, backed by a MERN Stack Development certification from PW Skills. Proven ability to build scalable web applications and deliver end-to-end solutions.
+AI Full Stack Developer with more than 2+ years of hands-on experience specializing in the MERN stack. Transitioned from a Mechanical Engineering background (B.Tech, Technocrats Institute of Technology & Science) into software development, backed by a MERN Stack Development certification from PW Skills. Proven ability to build scalable web applications and deliver end-to-end solutions.
 
-Currently, I am working as a Full Stack Developer - Intern at Ageit Endorse India Private Limited, Pune since May 2025, where I contribute in building responsive and user-friendly web interfaces Frontend, empowered by efficient, secure and scalable Backend with intergration of MongoDB as Database. Prior to this, I was working as a Frontend Developer - Trainee at 18Pixels, Lucknow from February 2025 to May 2025, and I have also completed an internship as a React.JS Developer at CodSoft from April 2024 to October 2024, where I gained hands-on experience in developing real-world projects and collaborating with team.
+Currently, I am working as an Associate Software Engineer at Techila Global Services, Pune since June 2026, where I contribute in building responsive and user-friendly web interfaces Frontend, empowered by efficient, secure and scalable Backend with intergration of MongoDB as Database. Prior to this, I was working as a Full Stack Developer at Quantum Webframe, Pune from July 2024 to May 2026, where I gained hands-on experience in developing real-world projects and collaborating with team.
 
-My technical skill set includes framework like Next.JS, React.JS, Redux Toolkit, Node.JS, Express.JS, and languages like TypeScript, JavaScript, jQuery, CSS and HTML. I also have a strong foundation in Data Structures & Algorithms and Database Management Systems, with experience working on both SQL and NoSQL databases such as MySQL, PostgreSQL and MongoDB.
+My technical skill set includes framework like Next.JS, React.JS, Redux Toolkit, Node.JS, Express.JS, Nest.JS, and languages like TypeScript, JavaScript, Python, CSS and HTML. I also have a strong foundation in Data Structures & Algorithms and Database Management Systems, with experience working on both SQL and NoSQL databases such as MySQL, PostgreSQL and MongoDB.
 
-Growing up in a value-driven middle-class family, I have always believed in my father's motto of "Simple Living, Higher Thinking," which continues to guide my personal and professional journey.
-
-- 🔭 I’m currently working on CRM and some other minor projects at **Ageit Endorse India Pvt Ltd**
-- 🌱 I’m currently learning **Next.JS, TypeScript** and **jQuery,**
-- 💬 Ask me about **Full Stack Development,**
+- 🔭 I’m currently working on AI chat agent like Emergent and some other minor projects at **Techila Global Services**
+- 🌱 I’m currently learning **Salesforce, TypeScript** and **MCP Tools,**
+- 💬 Ask me about **AI Full Stack Development,**
 - 📫 Here is my portfolio link to reach me: [Portfolio](https://portfolio-20-kartikey-gupta.vercel.app/),
 - 📄 Know about my experiences here is my [Resume](https://drive.google.com/file/d/1in7jpSykMZUcfphTXgEE3oEObn9iC61V/view?usp=sharing)
-- ⚡ Fun fact **I am a Full Stack Engineer (MERN Stack) by profession and a Mechanical Engineer by Degree.**
+- ⚡ Fun fact **I am an AI Full Stack Engineer (MERN Stack) by profession and a Mechanical Engineer by Degree.**
 
 
 ## 🛠️ Skills
 
-- **Programming Languages:** TypeScript, JavaScript, jQuery, and Python,
+- **Programming Languages:** TypeScript, JavaScript, and Python,
 - **Web Development:** Next.JS, React.JS, Redux Toolkit, Nest.JS, Express.JS, Node.JS, HTML, CSS, Tailwind CSS, 
 - **Database Management:** SQL, NoSQL, MySQL, PostgreSQL, and MongoDB,
 - **Tools & Software:** Docker, Kubernetes, Terraform(still learning), VS Code(IDE), Cursor(IDE), Antigravity(IDE), Postman(API Integration).
